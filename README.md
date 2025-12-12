@@ -1,4 +1,4 @@
-### Olá, eu sou Áduler. Bem-vindo ao meu perfil! 👋
+### Olá, eu sou Áduler. Bem-vindo ao meu perfil! NÃO ESQUEÇA MAIS O GIT HUB ABERTO👋
 
 <div class="todo-perfil">
   <div class="secao-habilidades">
